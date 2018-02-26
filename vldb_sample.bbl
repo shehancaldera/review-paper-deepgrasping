@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+
+\bibitem{sulabh}
+S.~Kumra and C.~Kanan, ``Robotic grasp detection using deep convolutional
+  neural networks,'' {\em CoRR}, vol.~abs/1611.08036, 2016.
+
+\bibitem{mahler}
+J.~Mahler, J.~Liang, S.~Niyaz, M.~Laskey, R.~Doan, X.~Liu, J.~A. Ojea, and
+  K.~Goldberg, ``Dex-net 2.0: Deep learning to plan robust grasps with
+  synthetic point clouds and analytic grasp metrics,'' {\em CoRR},
+  vol.~abs/1703.09312, 2017.
+
+\bibitem{saxena_2006}
+A.~Saxena, J.~Driemeyer, J.~Kearns, and A.~Y. Ng, ``Robotic grasping of novel
+  objects,'' in {\em Advances in Neural Information Processing Systems 19}
+  (B.~Sch\"{o}lkopf, J.~C. Platt, and T.~Hoffman, eds.), pp.~1209--1216, MIT
+  Press, 2007.
+
+\bibitem{saxena-2008}
+A.~Saxena, J.~Driemeyer, and A.~Y. Ng, ``Robotic grasping of novel objects
+  using vision,'' {\em The International Journal of Robotics Research},
+  vol.~27, no.~2, pp.~157--173, 2008.
+
+\bibitem{jiang}
+Y.~Jiang, S.~Moseson, and A.~Saxena, ``Efficient grasping from rgbd images:
+  Learning using a new rectangle representation,'' in {\em 2011 IEEE
+  International Conference on Robotics and Automation}, pp.~3304--3311, May
+  2011.
+
+\bibitem{lenz}
+I.~Lenz, H.~Lee, and A.~Saxena, ``Deep learning for detecting robotic grasps,''
+  {\em Int. J. Rob. Res.}, vol.~34, pp.~705--724, Apr. 2015.
+
+\bibitem{redmon}
+J.~Redmon and A.~Angelova, ``Real-time grasp detection using convolutional
+  neural networks,'' {\em CoRR}, vol.~abs/1412.3128, 2014.
+
+\bibitem{febert}
+M.~Basalla, F.~Ebert, R.~Tebme, and W.~Ke, ``{Grasping for the real world
+  (Greifen mit Deep Learning)}.''
+  \url{https://www.frederikebert.de/abgeschlossene-projekte/greifen-mit-deep-learning}.
+\newblock Accessed: 2018-02-01.
+
+\end{thebibliography}
